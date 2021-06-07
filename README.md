@@ -1,2 +1,2 @@
 # pyAggreg
-Analysis of Amyloid Fibril Surface-dependent Processes
+Analysis for Amyloid Fibril Surface-dependent Processes
